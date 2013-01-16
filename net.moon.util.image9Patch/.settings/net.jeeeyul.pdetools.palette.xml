@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<p:Palette xmlns:p="http://jeeeyul.net/pde-tools" fieldName="ICONS" folder="/net.moon.util.image9Patch/icons">
+  <imageFiles fieldName="ADDSCRIPT" file="/net.moon.util.image9Patch/icons/addscript.gif"/>
+  <imageFiles fieldName="DRAWING_3_9" file="/net.moon.util.image9Patch/icons/drawing-3.9.png"/>
+  <imageFiles fieldName="DRAWING_3" file="/net.moon.util.image9Patch/icons/drawing-3.png"/>
+  <imageFiles fieldName="SAMPLE_BUTTON_9" file="/net.moon.util.image9Patch/icons/sample_button.9.png"/>
+  <imageFiles fieldName="SAMPLE_BUTTON_TEST_9" file="/net.moon.util.image9Patch/icons/sample_button_test.9.png"/>
+  <imageFiles fieldName="TEST_BUTTON" file="/net.moon.util.image9Patch/icons/test_button.png"/>
+</p:Palette>
